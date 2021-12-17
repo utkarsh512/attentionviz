@@ -1,5 +1,5 @@
-# WWHM
-Creating word-weighted heatmap's latex script given a list of tokens and weights
+# attentionviz
+Creating word-weighted heatmap's latex script given a list of tokens and attention scores
 ## How to use
 ```python3
 from heatmap import Visualizer
